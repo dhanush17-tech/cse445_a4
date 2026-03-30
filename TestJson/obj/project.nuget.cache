@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G0vAvLS+8xo=",
+  "success": true,
+  "projectFilePath": "/Users/dhanushvardhankalaiselvan/Desktop/as4/gh_pages/TestJson/TestJson.csproj",
+  "expectedPackageFiles": [
+    "/Users/dhanushvardhankalaiselvan/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
